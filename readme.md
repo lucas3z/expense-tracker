@@ -13,7 +13,7 @@ Keep track of income and expenses. Add and remove items and save to local storag
 
 ### What I Learned:
 
-- Delete items from the DOM
+- Delete items from DOM
 - set data to localStorage
 - Get data from localStorage
 
